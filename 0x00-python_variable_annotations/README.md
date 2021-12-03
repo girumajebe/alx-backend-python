@@ -60,8 +60,4 @@ What you should learn from this project:
 
 * Use mypy to validate the following piece of code and apply any necessary changes.
 
----
 
-## Author
-
-**Joshua Martinez** - [dantsub](https://github.com/dantsub)
